@@ -3,7 +3,6 @@
 2. Install all dependencies using `npm install` command
 3. Start the web app server using the `npm run dev` command. the app will be served at http://127.0.0.1:5173/
 
-#### [Live-App](https://organic-food-rohan.netlify.app/)
 
 
 ## What the app look like
